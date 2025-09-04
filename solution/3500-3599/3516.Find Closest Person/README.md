@@ -19,7 +19,7 @@ tags:
 <!-- description:start -->
 
 <p data-end="116" data-start="0">给你三个整数 <code data-end="33" data-start="30">x</code>、<code data-end="38" data-start="35">y</code> 和 <code data-end="47" data-start="44">z</code>，表示数轴上三个人的位置：</p>
-
+.
 <ul data-end="252" data-start="118">
 	<li data-end="154" data-start="118"><code data-end="123" data-start="120">x</code> 是第 1 个人的位置。</li>
 	<li data-end="191" data-start="155"><code data-end="160" data-start="157">y</code> 是第 2 个人的位置。</li>
